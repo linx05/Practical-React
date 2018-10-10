@@ -3,17 +3,17 @@
 ## Part 1 - Modern JavaScript
 
 ### JavaScript Fundamentals
-- #### [Functions](JavaScript Fundamentals/Functions.md)
-- #### [Functions in JavaScript](JavaScript Fundamentals/Funcions in JavaScript.md)
-- #### [Map and Reduce](JavaScript Fundamentals/Map and Reduce.md)
+- #### [Functions](JavaScript-Fundamentals/Functions.md)
+- #### [Functions in JavaScript](JavaScript-Fundamentals/Funcions-in-JavaScript.md)
+- #### [Map and Reduce](JavaScript-Fundamentals/Map-and-Reduce.md)
 - #### Scope and Closures (PENDING)
 
 ### Modern Tooling
-- #### [Node](Modern Tooling/Node.md)
-- #### [NPM](Modern Tooling/npm.md)
-- #### [Modules](Modern Tooling/Modules.md)
-- #### [Module Building](Modern Tooling/Module Building.md)
-- #### [Transpiling](Modern Tooling/Transpiling.md)
+- #### [Node](Modern-Tooling/Node.md)
+- #### [NPM](Modern-Tooling/npm.md)
+- #### [Modules](Modern-Tooling/Modules.md)
+- #### [Module Building](Modern-Tooling/Module-Building.md)
+- #### [Transpiling](Modern-Tooling/Transpiling.md)
 
 ### ES6
 - #### Import Syntax
