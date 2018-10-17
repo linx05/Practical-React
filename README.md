@@ -4,7 +4,7 @@
 
 ### JavaScript Fundamentals
 - #### [Functions](JavaScript%20Fundamentals/Functions.md)
-- #### [Functions in JavaScript](JavaScript%20Fundamentals/Funcions%20in%20JavaScript.md)
+- #### [Functions in JavaScript](JavaScript%20Fundamentals/Functions%20in%20JavaScript.md)
 - #### [Map and Reduce](JavaScript%20Fundamentals/Map%20and%20Reduce.md)
 - #### Scope and Closures (PENDING)
 
@@ -16,11 +16,12 @@
 - #### [Transpiling](Modern%20Tooling/Transpiling.md)
 
 ### ES6
-- #### Import Syntax
-- #### Variable Declaration (let, const and var)
+- #### Variable Types (let, const and var)
 - #### "Classes"
 - #### Promises
-- #### Destructing
+- #### Object Destructuring and Spread Syntax
+- #### Arrow Functions
+- #### JavaScript Modules
 
 ## Part 2 - React
 
