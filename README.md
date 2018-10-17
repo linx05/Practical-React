@@ -16,12 +16,12 @@
 - #### [Transpiling](Modern%20Tooling/Transpiling.md)
 
 ### ES6
-- #### Variable Types (let, const and var)
-- #### "Classes"
-- #### Promises
-- #### Object Destructuring and Spread Syntax
-- #### Arrow Functions
-- #### JavaScript Modules
+- #### [Variable Types (let, const and var)](ES6/Variable%20Types.md)
+- #### ["Classes"](ES6/Classes.md)
+- #### [Promises](ES6/Classes.md)
+- #### [Object Destructuring and Spread Syntax](ES6/Object%20Destructuring.md)
+- #### [Arrow Functions](ES6/Arrow%20Functions.md)
+- #### [JavaScript Modules](ES6/JavaScript%20Modules.md)
 
 ## Part 2 - React
 
