@@ -26,29 +26,25 @@
 ## Part 2 - React
 
 ### React Concepts
-- #### Components
-- #### One-way data binding
+- #### [React](React/React-Concepts/React.md)
+- #### [Components](React/React-Concepts/Components.md)
+- #### [JSX](React/React-Concepts/JSX.md)
 
 ### How It Works
-- #### Shadow DOM
-- #### Diff Algorithm
+- #### [Virtual DOM](React/How-It-Works/README.md#Virtual%20DOM)
+- #### Diff Algorithm (Reconciliation)
 
-### Components
-- #### Philosophy
-- #### Parts of Component
-    - #### Props
-    - #### State
-- #### Render
-
-### JSX
-
-### Properties
+### Render
 
 ### State
 
 ### Events
 
+### Props
+
 ### Passing Data Up
+
+### JSX
 
 ### Lifecycle Methods
 
