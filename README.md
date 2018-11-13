@@ -34,25 +34,21 @@
 - #### [Virtual DOM](React/How-It-Works/README.md#Virtual%20DOM)
 - #### Diff Algorithm (Reconciliation)
 
-### Render
+### [JSX](React/React-Concepts/JSX.md)
 
-### State
+### Components
+- #### [Render](React/Components/Render.md)
+- #### [Props](React/Components/Props.md)
+- #### State
+- #### Lifecycle Methods
+- #### Events
+- #### Passing Data Up
 
-### Events
-
-### Props
-
-### Passing Data Up
-
-### JSX
-
-### Lifecycle Methods
+### Dynamic Components
 
 ### Class Components
 
 ### Stateless Components
-
-### Dynamic Components
 
 ### Async Code in React
 
