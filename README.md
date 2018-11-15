@@ -41,8 +41,7 @@
 - #### [Props](React/Components/Props.md)
 - #### [Lifecycle Methods](React/Components/Lifecycle-Methods.md)
 - #### [State](React/Components/Lifecycle-Methods.md)
-- #### Events
-- #### Passing Data Up
+- #### [Events](React/Components/Events.md)
 
 ### Dynamic Components
 
