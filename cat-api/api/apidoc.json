@@ -1,0 +1,11 @@
+{
+  "name": "catastic-apidoc",
+  "version": "1.0.0",
+  "description": "Catastic apiDoc project",
+  "title": "Catastic apiDoc",
+  "url": "http://localhost:8080/api",
+  "sampleUrl": "http://localhost:8080/api",
+  "template": {
+    "withGenerator": true
+  }
+}

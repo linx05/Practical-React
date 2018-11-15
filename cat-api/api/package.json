@@ -1,0 +1,17 @@
+{
+  "name": "cat-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js",
+    "watch": "node_modules/.bin/nodemon ./index.js"
+  },
+  "dependencies": {
+    "apidoc": "0.17.7",
+    "bluebird": "3.5.3",
+    "cors": "2.8.5",
+    "express": "4.16.4",
+    "nodemon": "1.18.6"
+  }
+}
