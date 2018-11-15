@@ -30,8 +30,6 @@ This means that no call to `this.setState` should me made in this method, as thi
 1) Break with the pattern of the method being pure.
 2) Could trigger an infinite loop of the component trying to render.
 
-
-
 ## References
 
 - https://reactjs.org/docs/react-component.html#render

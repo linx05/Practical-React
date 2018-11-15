@@ -39,8 +39,8 @@
 ### Components
 - #### [Render](React/Components/Render.md)
 - #### [Props](React/Components/Props.md)
-- #### State
-- #### Lifecycle Methods
+- #### [Lifecycle Methods](React/Components/Lifecycle-Methods.md)
+- #### [State](React/Components/Lifecycle-Methods.md)
 - #### Events
 - #### Passing Data Up
 
